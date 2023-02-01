@@ -1,0 +1,4 @@
+/home/qiheng/phd/obstacles/CMakeFiles/rebuild_cache.dir
+/home/qiheng/phd/obstacles/CMakeFiles/edit_cache.dir
+/home/qiheng/phd/obstacles/CMakeFiles/3d.dir
+/home/qiheng/phd/obstacles/CMakeFiles/create_regions.dir

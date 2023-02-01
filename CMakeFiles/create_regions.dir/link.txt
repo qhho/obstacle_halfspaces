@@ -1,0 +1,1 @@
+/usr/bin/c++   -O2 -std=c++17  -rdynamic CMakeFiles/create_regions.dir/regions.cpp.o  -o create_regions 

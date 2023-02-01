@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qiheng/phd/obstacles/regions.cpp
+iostream
+-
+fstream
+-
+boost/lexical_cast.hpp
+-
+eigen3/Eigen/Dense
+-
+
